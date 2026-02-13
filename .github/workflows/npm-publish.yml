@@ -32,4 +32,3 @@ jobs:
 
       - name: Run tests
         run: npm test --if-present
-Messages addressed to "meeting group chat" will also appear in the meeting group chat in Team Chat
